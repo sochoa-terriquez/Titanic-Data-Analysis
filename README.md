@@ -1,0 +1,1 @@
+This project uses Python to analyze the Titanic dataset using data visualization and statistics. The program explores passenger survival patterns, missing values, correlations, and trends through charts, graphs, and summary statistics.  Language used: Python Libraries used: pandas, numpy, matplotlib, seaborn
